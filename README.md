@@ -7,7 +7,7 @@ npm install a-life
 
 ✔️・**Latest open source project [Discord Email Spammer Exploit](https://discord.gg/f5Q7Z2SQSb)**
 
-📩・**Want to reach? Add ††#2580 on [discord](https://discord.gg/f5Q7Z2SQSb) or mail dinnerbone387@gmail.com**
+📩・**Want to reach? Add DaddyKief#2580 on [discord](https://discord.gg/f5Q7Z2SQSb) or mail dinnerbone387@gmail.com**
 </a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=iusetools&show_icons=true&locale=en&layout=compact&langs_count=10&custom_title=Most%20Used%20Coding%20Languages" alt="rdimo" /> </p>
 🌐・**Website: [COMING SOON...](https://discord.gg/f5Q7Z2SQSb)**
 <h3 style="font-family:verdana" align="left">Languages I know/have experience in:</h3>
